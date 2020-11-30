@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "name": "playwright-issue-4546",
+  "scripts": {
+    "serve": "node server",
+    "test": "folio"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "=0.162.0"
+  }
+}
